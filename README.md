@@ -6,7 +6,7 @@ Main CC Decoding code can be found in the file beam\_search.py. Please refer to 
 
 We will clean this code base in future, if possible. Currently it is not maintained.   
 
-Bibtex:
+<b>Bibtex</b>:
 
 @article{DBLP:journals/corr/abs-1803-07038,
   author    = {Noah Weber and
