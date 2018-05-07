@@ -1,8 +1,11 @@
 # copy-controlled-decoding
 
-CC Decoding can be found in the file beam_search.py. 
+This repository has code for paper [Controlling Decoding for More Abstractive Summaries with Copy-Based Networks](https://arxiv.org/pdf/1803.07038.pdf) 
 
-Please not that following points:
+Main CC Decoding code can be found in the file beam\_search.py. 
 
-1. Code baseis not really clean as it still has a bunch of things we had tried.
-2. This code is based on the original code by see et. al.. That can be found [here](https://github.com/abisee/pointer-generator).
+
+Please note that following points:
+
+1. Code base is not really clean as it still has a bunch of things we had tried.
+2. We thank see et. al. for the original code base found [here](https://github.com/abisee/pointer-generator).
